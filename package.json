@@ -2,7 +2,7 @@
   "name": "react-surface",
   "version": "0.1.0",
   "description": "A custom react renderer utilizing facebook yoga targeting canvas/webgl",
-  "author": "Kasper Sandin",
+  "author": "Kasper573",
   "repository": "https://github.com/ksandin/react-surface",
   "dependencies": {
     "color": "2.0.1",
